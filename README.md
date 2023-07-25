@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=alto&weight=500&size=22&duration=2000&pause=800&color=FF8374&center=true&vCenter=true&multiline=true&repeat=false&width=970&height=70&lines=Eno;Computer+Science+%7C+INSA+Lyon)](https://git.io/typing-svg)
+[![enorart](https://readme-typing-svg.demolab.com?font=alto&weight=500&size=22&duration=2000&pause=300&color=FF8374&center=true&vCenter=true&multiline=true&repeat=false&width=970&height=70&lines=Eno;Computer+Science+%7C+INSA+Lyon)](https://github.com/enorart)
 
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/enorart">
     <img src="https://github-stats-alpha.vercel.app/api?username=enorart&cc=22272e&tc=FF8374&ic=fff&bc=0000">
 </a>
 </p>
