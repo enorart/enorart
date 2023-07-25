@@ -7,13 +7,13 @@
 </a>
 </p>
 
-- 👋 Hi, I’m @enorart
+- 👋 Hi, I’m @enorart !
   
-- 👀 I’m interested in backend and frontend development, machine learning, artifical intelligence
+- 👀 I’m interested in backend and frontend development and in machine learning, artifical intelligence...
   
-- 💻 I’m currently learning by myself on machine learning in computer vision and website creation
+- 💻 I’m currently learning by myself on machine learning in computer vision and on website creation 
   
-- 💡 Open to collaborating on projects and innovative ideas
+- 💡 Open to collaborating on projects and innovative ideas !
   
 - 🎓 I'm a student at INSA Lyon engineering school in France
 
