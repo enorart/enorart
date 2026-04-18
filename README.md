@@ -13,8 +13,6 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/enorart/enorart/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <h2> 🚀 &nbsp;A Little Bit About Me and My Interests</h2>
